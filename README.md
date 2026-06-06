@@ -10,6 +10,8 @@ This project analyzes employee workforce data using Excel.
 
 [Employee Analysis](employee-analysis.png)
 
+📄 [Download Report](employee-analysis.png)
+
 ## Project Report
 
 📄 [Download Report](Portfolio%20Analysis%20and%20Insights.docx)
