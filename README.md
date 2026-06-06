@@ -8,7 +8,7 @@ This project analyzes employee workforce data using Excel.
 
 ## Employee Analysis
 
-![Employee Analysis](screenshots/employee-analysis.png)
+[Employee Analysis](screenshots/employee-analysis.png)
 
 ## Project Report
 
